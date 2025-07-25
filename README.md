@@ -8,7 +8,7 @@ Technology Stack
 - PostgreSQL
 - Swagger
 - Maven
-- 
+  
 The project models a zoo information system with the following main entities:
 - Animals
 - Employees
